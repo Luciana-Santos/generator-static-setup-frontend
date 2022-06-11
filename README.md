@@ -10,6 +10,6 @@ Instale o yeoman globalmente: `npm install -g yo`
 
 Após, instale o gerador de setup estático globalmente: `npm install -g generator-static-setup`
 
-Navegue para a pasta em que deseja gerar os arquivos e execute: `yo generator-static-setup`
+Navegue para a pasta em que deseja gerar os arquivos e execute: `yo static-setup`
 
 Por fim, para abrir o projeto: `npm start`
