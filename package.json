@@ -1,6 +1,6 @@
 {
-  "name": "generator-setup-estatico",
-  "version": "1.0.1",
+  "name": "generator-static-setup",
+  "version": "1.0.2",
   "description": "Gerador de setup estático para projetos front end.",
   "main": "index.js",
   "keywords": [
