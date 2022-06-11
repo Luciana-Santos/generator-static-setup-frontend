@@ -1,0 +1,2 @@
+# generator-static-setup-frontend
+ 
