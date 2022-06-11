@@ -1,14 +1,14 @@
 {
   "name": "generator-setup-estatico",
   "version": "1.0.1",
-  "description": "Gerador de setup stático para projetos front end.",
+  "description": "Gerador de setup estático para projetos front end.",
   "main": "index.js",
   "keywords": [
     "yeoman-generator"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Luciana-Santos/generator-static-setup"
+    "url": "https://github.com/Luciana-Santos/generator-static-setup-frontend"
   },
   "author": "Luciana-Santos",
   "license": "ISC",
